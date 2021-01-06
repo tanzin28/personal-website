@@ -98,6 +98,8 @@ h1{
     background-repeat: no-repeat;
     background-size: 900px 200px;
     background-position: center;
+    height: 500px;
+    width: 100%;
     
 }
 .inquiry{
@@ -106,23 +108,26 @@ h1{
     font-weight: 900;
 
 }
-
-.wrap{
-    margin: auto;
+footer {
+    text-align: center;
+}
+.last{
+    margin-top: 60px;
     text-align: center;
 }
 .icon{
-    height: 40px;
-    width: 40px;
+    height: 35px;
+    width: 35px;
     padding: 3px;
     margin-left: 1px;
     margin-right: 1px;
+    margin-bottom: 30px;
 }
-#msg{
-    color: rgba(128, 128, 128, 0.884);
-    font-size: large;
-    margin-right: 50%;
+.msg{
+    color: rgba(128, 128, 128, 0.911);
+    font-size: x-large;
 }
-#email{
-        font-size: xx-large 
-    }
+.email{
+    font-family: "Roboto", sans-serif;
+    font-size: xx-large;
+}
