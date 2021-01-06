@@ -1,0 +1,132 @@
+body{
+    font-family: 'Staatliches', cursive;
+}
+#navigation{
+    height: 100px;
+}
+.topnav{
+    float: left;
+    padding: 50px;
+    margin-left: 50%;
+  }
+.menu{
+    text-decoration: none;
+    margin: 25px;
+    color: black;
+    font-size: 15px;
+
+}
+section{
+    height: 400px;
+    
+}
+.third-part{
+    height: 600px;
+    background-color: rgba(128, 128, 128, 0.062);
+}
+h1{
+    font-size: 40px;
+    font-weight: 700;
+    padding: 0%;
+    color: rgba(0, 0, 0, 0.753);
+}
+.name{
+    color: rgba(255, 99, 71, 0.87);
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    background-color: rgba(255, 99, 71, 0.904);
+    padding: 15px 40px;
+    border-radius: 5px;
+    color: white;
+}
+.btn{
+    color: white;
+    background-color: rgba(255, 99, 71, 0.897);
+    border-radius: 5px;
+    padding: 15px 40px;
+    border-style: none;
+
+}
+.third-width{
+    width: 20%;
+    height: 300px;
+    float: left;
+    margin-left: 7%;
+    padding-left: 5%;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}
+.tomato{
+    color: tomato;
+    font-size: larger;
+}
+#latest{
+    text-align: center;
+}
+.pictures{
+    height: 120px;
+    width: 220px;
+    padding: 3px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-top: 5px;
+    border: 3px solid;
+    border-color: white;
+    border-radius: 5px;
+    vertical-align: middle;
+
+}
+.banner{
+    float: left;
+    margin-bottom: 80px;
+    margin-left: 50px;
+    padding: 15%;
+
+}
+.last-part{
+    background-image: url(images/work.png);
+    background-repeat: no-repeat;
+    background-size: 900px 200px;
+    background-position: center;
+    
+}
+.inquiry{
+    color: white;
+    font-size: 50px;
+    font-weight: 900;
+
+}
+.footer{
+    height: 200px;
+    width: auto;
+    text-align: center;
+}
+.wrap{
+    margin: auto;
+    text-align: center;
+}
+.icon{
+    height: 40px;
+    width: 40px;
+    padding: 3px;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+#msg{
+    color: rgba(128, 128, 128, 0.884);
+    font-size: large;
+    margin-right: 50%;
+}
+#email{
+        font-size: xx-large 
+    }
